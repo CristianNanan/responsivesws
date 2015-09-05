@@ -1,4 +1,6 @@
-# responsivesws
+# Responsive SWS
+
+Responsive CSS to be implemented on http://www.rosi.utoronto.ca/
 
 ![Landscape Tablet](https://raw.githubusercontent.com/CristianNanan/responsivesws/master/images/tabletland.png)
 
