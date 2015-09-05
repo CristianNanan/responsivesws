@@ -1,3 +1,6 @@
 # responsivesws
 
-![alt tag](https://raw.github.com/cristiannanan/responsivesws/images/mobile.png)
+![Mobile](https://raw.githubusercontent.com/CristianNanan/responsivesws/master/images/mobile.png)
+![Portrait Tablet](https://raw.githubusercontent.com/CristianNanan/responsivesws/master/images/tablet.png)
+![Landscape Tablet](https://raw.githubusercontent.com/CristianNanan/responsivesws/master/images/tabletlandscape.png)
+
