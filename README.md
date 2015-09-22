@@ -1,6 +1,6 @@
 # Responsive SWS
 
-Responsive CSS the ROSI landing page.
+Responsive CSS for the ROSI landing page.
 
 ![Landscape Tablet](https://raw.githubusercontent.com/CristianNanan/responsivesws/master/images/tabletland.png)
 
